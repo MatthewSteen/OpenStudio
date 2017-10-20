@@ -15,9 +15,10 @@ test_fails.txt
 /build-profile/
 /core-build/
 /super-build/
+/build_1x
+/build_2x
 
 *.sublime-workspace
 
 *.sublime-project
 cmake-build-debug
-
